@@ -139,7 +139,7 @@ function startViewer(stage) {
 
   function load() {
     new GLTFLoader().load(
-      '/models/kizuna.glb',
+      new URL('models/kizuna.glb', document.baseURI).href,
       (gltf) => {
         const root = gltf.scene;
         const box = new THREE.Box3().setFromObject(root);

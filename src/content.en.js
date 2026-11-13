@@ -165,7 +165,7 @@ export const enDocs = [
       </ul>
       <p>Each sachet carries its own accent color: gold for Nastar, pink for Kue Bangkit, orange for Kue Sagu Keju, green for Kue Semprong.</p>
       <figure class="figure">
-        <img src="/img/card.webp" alt="Kizuna Nusantara message card printed with あなたへのメッセージ" width="900" height="468" loading="lazy" />
+        <img src="img/card.webp" alt="Kizuna Nusantara message card printed with あなたへのメッセージ" width="900" height="468" loading="lazy" />
         <figcaption>The message card inside the box, with room for a name or a note.</figcaption>
       </figure>`,
   },

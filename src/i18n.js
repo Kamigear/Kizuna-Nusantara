@@ -59,16 +59,23 @@ export function initLang() {
     return;
   }
 
-  // Tebakan cepat dari browser, lalu dikoreksi oleh negara IP di edge.
+  // Tebakan cepat dari browser, lalu dikoreksi oleh negara IP.
   const nav = (navigator.language || '').toLowerCase();
   applyLang(nav.startsWith('ja') ? 'ja' : nav.startsWith('id') ? 'id' : 'en');
 
-  fetch('/api/geo', { cache: 'no-store' })
+  const abort = new AbortController();
+  const timer = setTimeout(() => abort.abort(), 4000);
+  fetch('https://ipwho.is/?fields=country_code', {
+    cache: 'no-store',
+    signal: abort.signal,
+  })
     .then((r) => (r.ok ? r.json() : null))
     .then((geo) => {
-      if (!geo || !geo.country) return;
+      if (!geo || geo.success === false || !geo.country_code) return;
       if (localStorage.getItem(STORAGE)) return;
-      applyLang(geo.country === 'JP' ? 'ja' : geo.country === 'ID' ? 'id' : 'en');
+      const cc = geo.country_code;
+      applyLang(cc === 'JP' ? 'ja' : cc === 'ID' ? 'id' : 'en');
     })
-    .catch(() => {});
+    .catch(() => {})
+    .finally(() => clearTimeout(timer));
 }

@@ -240,7 +240,7 @@ export const docs = {
         </ul>
         <p>Masing-masing sachet membawa warna aksennya sendiri: emas untuk Nastar, merah muda untuk Kue Bangkit, oranye untuk Kue Sagu Keju, hijau untuk Kue Semprong.</p>
         <figure class="figure">
-          <img src="/img/card.webp" alt="Kartu pesan Kizuna Nusantara dengan tulisan あなたへのメッセージ" width="900" height="468" loading="lazy" />
+          <img src="img/card.webp" alt="Kartu pesan Kizuna Nusantara dengan tulisan あなたへのメッセージ" width="900" height="468" loading="lazy" />
           <figcaption>Kartu pesan di dalam kotak: ruang untuk menulis nama atau pesan.</figcaption>
         </figure>`,
     },
@@ -358,7 +358,7 @@ export const docs = {
         </ul>
         <p>個包装ごとにアクセントカラーが違います。ナスタルはゴールド、クエ・バンキットはピンク、クエ・サグ・クジュはオレンジ、クエ・スンプロンはグリーンです。</p>
         <figure class="figure">
-          <img src="/img/card.webp" alt="あなたへのメッセージと書かれたメッセージカード" width="900" height="468" loading="lazy" />
+          <img src="img/card.webp" alt="あなたへのメッセージと書かれたメッセージカード" width="900" height="468" loading="lazy" />
           <figcaption>箱に入っているメッセージカード。名前やメッセージを書けます。</figcaption>
         </figure>`,
     },
