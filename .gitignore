@@ -1,0 +1,10 @@
+node_modules/
+dist/
+.cache/
+*.blend
+*.blend1
+
+# Model mentah 113 MB; situs memakai hasil build di public/models.
+3D Model/*.obj
+3D Model/*.mtl
+3D Model/*.glb

@@ -1,0 +1,191 @@
+<!doctype html>
+<html lang="id" data-title-key="meta.index.title" data-desc-key="meta.index.desc">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Kizuna Nusantara: oleh-oleh Indonesia untuk Jepang</title>
+    <meta
+      name="description"
+      content="Kotak kue kering Indonesia untuk budaya omiyage Jepang. Empat rasa, dikemas satuan, siap dibagikan."
+    />
+    <meta name="theme-color" content="#14131a" />
+    <link rel="icon" href="/img/logo.webp" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Bodoni+Moda:opsz,wght@6..96,400;6..96,500&family=Zen+Kaku+Gothic+New:wght@400;500;700&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="/src/styles.css" />
+  </head>
+  <body>
+    <header class="bar">
+      <a class="brand" href="./" aria-label="Kizuna Nusantara">
+        <span>Kizuna Nusantara</span>
+        <em lang="ja">キズナ・ヌサンタラ</em>
+      </a>
+      <nav class="nav">
+        <a href="#kotak" data-i18n="nav.box"></a>
+        <a href="#rasa" data-i18n="nav.flavors"></a>
+        <a href="docs.html" data-i18n="nav.docs"></a>
+      </nav>
+      <div class="lang" role="group" data-i18n-aria="lang.aria">
+        <button type="button" data-lang="id" lang="id">ID</button>
+        <button type="button" data-lang="en" lang="en">EN</button>
+        <button type="button" data-lang="ja" lang="ja">日本語</button>
+      </div>
+    </header>
+
+    <main>
+      <section class="hero">
+        <div class="hero__copy">
+          <h1 data-i18n="hero.title"></h1>
+          <p class="lede" data-i18n="hero.sub"></p>
+          <p class="meta" data-i18n="hero.meta"></p>
+          <a class="cta" href="#kotak" data-i18n="hero.cta"></a>
+        </div>
+
+        <div class="stage" id="stage">
+          <div class="stage__seigaiha" aria-hidden="true"></div>
+          <div class="stage__floor" aria-hidden="true"></div>
+          <canvas id="scene" data-i18n-aria="stage.canvas" role="img"></canvas>
+          <div class="stage__load" id="stage-load">
+            <span data-i18n="stage.loading"></span>
+            <i></i>
+          </div>
+          <p class="stage__hint" data-i18n="stage.hint"></p>
+          <p class="stage__error" id="stage-error" hidden data-i18n="stage.error"></p>
+        </div>
+      </section>
+
+      <section class="section" id="kotak">
+        <div class="section__head">
+          <h2 data-i18n="parts.title"></h2>
+          <p class="lede" data-i18n="parts.sub"></p>
+        </div>
+        <ul class="partlist">
+          <li><span data-i18n="parts.shell"></span><em data-i18n="parts.shell.jp"></em></li>
+          <li><span data-i18n="parts.drawer"></span><em data-i18n="parts.drawer.jp"></em></li>
+          <li><span data-i18n="parts.lid"></span><em data-i18n="parts.lid.jp"></em></li>
+          <li><span data-i18n="parts.welcome"></span><em data-i18n="parts.welcome.jp"></em></li>
+          <li><span data-i18n="parts.snack1"></span><em data-i18n="parts.snack1.jp"></em></li>
+          <li><span data-i18n="parts.snack2"></span><em data-i18n="parts.snack2.jp"></em></li>
+          <li><span data-i18n="parts.snack3"></span><em data-i18n="parts.snack3.jp"></em></li>
+          <li><span data-i18n="parts.snack4"></span><em data-i18n="parts.snack4.jp"></em></li>
+        </ul>
+      </section>
+
+      <section class="section" id="rasa">
+        <div class="section__head">
+          <h2 data-i18n="flavors.title"></h2>
+          <p class="lede" data-i18n="flavors.sub"></p>
+        </div>
+
+        <p class="hint" id="flip-hint" data-i18n="flavors.flip"></p>
+
+        <ol class="flavors__list">
+          <li class="flavor" style="--accent: #e0b65e">
+            <span class="flavor__no">No.1</span>
+            <button class="flip" type="button" aria-pressed="false" aria-describedby="flip-hint">
+              <span class="flip__inner">
+                <span class="flip__face flip__face--front">
+                  <img src="/img/pack-1.webp" alt="Nastar" width="900" height="468" loading="lazy" />
+                </span>
+                <span class="flip__face flip__face--back">
+                  <img src="/img/back-1.webp" alt="Snack Journey: Nastar" width="900" height="468" loading="lazy" />
+                </span>
+              </span>
+            </button>
+            <div class="flavor__body">
+              <h3 data-i18n="flavors.n1"></h3>
+              <p class="flavor__jp" lang="ja" data-i18n="flavors.n1.jp"></p>
+              <p data-i18n="flavors.n1.note"></p>
+            </div>
+          </li>
+
+          <li class="flavor" style="--accent: #e2a0b4">
+            <span class="flavor__no">No.2</span>
+            <button class="flip" type="button" aria-pressed="false" aria-describedby="flip-hint">
+              <span class="flip__inner">
+                <span class="flip__face flip__face--front">
+                  <img src="/img/pack-2.webp" alt="Kue Bangkit" width="900" height="468" loading="lazy" />
+                </span>
+                <span class="flip__face flip__face--back">
+                  <img src="/img/back-2.webp" alt="Snack Journey: Kue Bangkit" width="900" height="468" loading="lazy" />
+                </span>
+              </span>
+            </button>
+            <div class="flavor__body">
+              <h3 data-i18n="flavors.n2"></h3>
+              <p class="flavor__jp" lang="ja" data-i18n="flavors.n2.jp"></p>
+              <p data-i18n="flavors.n2.note"></p>
+            </div>
+          </li>
+
+          <li class="flavor" style="--accent: #d9763f">
+            <span class="flavor__no">No.3</span>
+            <button class="flip" type="button" aria-pressed="false" aria-describedby="flip-hint">
+              <span class="flip__inner">
+                <span class="flip__face flip__face--front">
+                  <img src="/img/pack-3.webp" alt="Kue Sagu Keju" width="900" height="468" loading="lazy" />
+                </span>
+                <span class="flip__face flip__face--back">
+                  <img src="/img/back-3.webp" alt="Snack Journey: Kue Sagu Keju" width="900" height="468" loading="lazy" />
+                </span>
+              </span>
+            </button>
+            <div class="flavor__body">
+              <h3 data-i18n="flavors.n3"></h3>
+              <p class="flavor__jp" lang="ja" data-i18n="flavors.n3.jp"></p>
+              <p data-i18n="flavors.n3.note"></p>
+            </div>
+          </li>
+
+          <li class="flavor" style="--accent: #8faf9e">
+            <span class="flavor__no">No.4</span>
+            <button class="flip" type="button" aria-pressed="false" aria-describedby="flip-hint">
+              <span class="flip__inner">
+                <span class="flip__face flip__face--front">
+                  <img src="/img/pack-4.webp" alt="Kue Semprong" width="900" height="468" loading="lazy" />
+                </span>
+                <span class="flip__face flip__face--back">
+                  <img src="/img/back-4.webp" alt="Snack Journey: Kue Semprong" width="900" height="468" loading="lazy" />
+                </span>
+              </span>
+            </button>
+            <div class="flavor__body">
+              <h3 data-i18n="flavors.n4"></h3>
+              <p class="flavor__jp" lang="ja" data-i18n="flavors.n4.jp"></p>
+              <p data-i18n="flavors.n4.note"></p>
+            </div>
+          </li>
+        </ol>
+      </section>
+
+      <section class="section sizes">
+        <div class="section__head">
+          <h2 data-i18n="sizes.title"></h2>
+          <p class="lede" data-i18n="sizes.body"></p>
+        </div>
+        <ul class="counts">
+          <li><b>8</b><span data-i18n="sizes.unit"></span></li>
+          <li><b>12</b><span data-i18n="sizes.unit"></span></li>
+          <li><b>24</b><span data-i18n="sizes.unit"></span></li>
+        </ul>
+      </section>
+
+      <section class="section turnaround">
+        <h2 data-i18n="docscta.title"></h2>
+        <p data-i18n="docscta.body"></p>
+        <a class="cta" href="docs.html" data-i18n="docscta.button"></a>
+      </section>
+    </main>
+
+    <footer class="foot">
+      <p class="foot__brand">Kizuna Nusantara</p>
+      <p class="foot__note" data-i18n="footer.note"></p>
+    </footer>
+
+    <script type="module" src="/src/main.js"></script>
+  </body>
+</html>

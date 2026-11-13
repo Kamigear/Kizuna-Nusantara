@@ -1,0 +1,636 @@
+﻿LEMBAR KERJA SISWA / STUDENT’S PAPER WORK
+Fokus
+Mengeksplorasi kebutuhan masyarakat Jepang, dan mengubah hasil eksplorasi menjadi ide solusi yang inovatif dan relevan sesuai kebutuhan target market.
+
+
+A. TANTANGAN PROYEK
+Apa kebutuhan atau masalah yang dialami masyarakat Jepang saat ini, dan solusi inovatif apa yang dapat kamu ciptakan untuk membantu mereka?
+Produk adalah yang bisa dibuat menjadi barang jadi (bukan hanya prototype gambar). DAN MENGANDUNG UNSUR BUDAYA LOKAL (JAWA / ACEH / NIAS / BATAK, DLL)
+
+
+B. TUJUAN PEMBELAJARAN
+Setelah menyelesaikan LKS ini, siswa mampu:
+1. Mengeksplorasi kebutuhan masyarakat Jepang.
+2. Mengidentifikasi masalah berdasarkan data/informasi yang ditemukan.
+3. Memahami kebutuhan dan sudut pandang calon pengguna/target market.
+4. Merumuskan problem statement.
+5. Menghasilkan beberapa ide solusi.
+6. Memilih ide solusi yang paling relevan dan realistis.
+7. Membuat prototype.
+8. Mendapatkan feedback untuk memperbaiki prototype.
+
+
+C. ATURAN EKSPLORASI
+Gunakan informasi dari sumber yang dapat dipercaya, misalnya:
+* Website pemerintah Jepang
+* Artikel berita
+* Website perusahaan
+* Video dokumenter
+* Hasil wawancara
+* Media sosial
+* Artikel penelitian
+* Data statistik
+⚠️ Ingat!
+Jangan hanya mencari:
+“Masalah yang terjadi di Jepang”
+Tetapi carilah:
+Kebutuhan apa yang belum terpenuhi atau masalah apa yang membutuhkan solusi?
+
+
+D. DESIGN THINKING JOURNEY  
+1. EMPATHIZE : 🔎 Mengenal Masyarakat Jepang
+
+
+Part 1 — Pilih Target Market
+* Pilih satu kelompok masyarakat Jepang yang ingin kamu pahami.
+* Lansia
+* Pelajar
+* Mahasiswa
+* Pekerja kantoran
+* Orang tua dengan anak anak
+* Wisatawan
+* Penyandang disabilitas
+* Pekerja asing
+* Masyarakat pedesaan
+* Masyarakat perkotaan
+* Lainnya: …
+
+
+🟥  Mengapa kelompok tersebut kamu pilih untuk diteliti?
+Karena kue yang kami pikirkan akan lebih cocok jika dinikmati dan dibeli oleh kalangan tersebut.
+
+
+
+
+Part 2 — Eksplorasi Informasi
+Carilah minimal 5 informasi/data mengenai target market kamu.
+
+
+No
+	Who
+	What
+	Where
+	When
+	Why
+	How
+	Hal yg menarik dari info yang ditemukan
+	Sumber link
+	1
+	Pelajar
+	Butuh hadiah kecil, murah, dan bisa dibagikan ke banyak teman 
+	Sekolah dan toko dekat sekolah 
+	Valentine (Februari), White Day 
+	Tradisi bertukar hadiah dengan teman lebih penting daripada untuk pasangan 
+	Membuat sendiri atau membeli cokelat / camilan kemasan 
+	Dari pelajar SMA yang menyiapkan cokelat, 84,1% memberikannya ke teman. Survei 2013 mencatat anggaran rata-rata sekitar ¥2.195, dibagikan ke sekitar 10 orang. 
+	https://store.mintel.com/report/japan-snacking-market-report
+	2
+	Anak-anak
+	Camilan manis untuk dibagi ke teman dan keluarga 
+	Sekolah, rumah, toko swalayan
+	Valentine dan acara berbagi hadiah
+	Berbagi camilan dengan teman sudah menjadi kebiasaan sejak kecil
+	Membuat sendiri atau membeli kemasan siap beri
+	75% anak SD–SMP memberi cokelat atau camilan saat Valentine, 45% membuatnya sendiri, dan 78% memberi ke teman sesama jenis. Survei Kidzania 2026 menemukan puncak tren “friend choco” ada di kelas atas SD sampai SMP, dan selera berubah di sekitar usia 10 tahun.
+	https://koubo.jp/press-release/prtimes/c78157_r353
+	3
+	Mahasiswa
+	Hadiah pertemanan yang tampil menarik dan layak difoto, serta camilan untuk diri sendiri
+	Kampus, rumah, kafe
+	Valentine, pesta kecil bersama teman
+	Mereka aktif bersosialisasi, dan makin tua makin sering membeli untuk diri sendiri
+	Berbelanja bersama teman dan mengadakan pesta di rumah
+	Sebanyak 67,3% mahasiswi ingin menerima hadiah dari teman perempuan. Survei 2013 menunjukkan sekitar 58% mahasiswi ingin mengadakan pesta cokelat di rumah. Pembelian untuk diri sendiri naik seiring usia.
+	https://news.mynavi.jp/article/20160107-a261/ · Survei 2013
+	4
+	Wisatawan
+	Oleh-oleh khas yang bisa dibagikan ke banyak orang
+	Bandara, department store, toko oleh-oleh
+	Sepanjang tahun, terutama sebelum pulang
+	Membawa oleh-oleh dianggap kewajiban sosial
+	Membeli kotak berisi beberapa bungkus kecil
+	Pada 2017, kue/manisan jadi oleh-oleh yang paling banyak dibeli turis asing (67,5%), dengan nilai belanja ¥158,9 miliar, naik 21%. Survei 2023 mencatat turis Thailand membeli kue/manisan dengan tingkat 85,4% dan rata-rata ¥18.954 per pembeli.
+	Bea Cukai Tokyo ·https://honichi.com/visitors/asia/thailand/shopping/
+	5
+	Masyarakat Perkotaan
+	Oleh-oleh dan hadiah yang aman, tahan lama, dan ringan dibawa
+	Kantor, stasiun, department store
+	Setelah perjalanan dinas atau liburan, mudik akhir tahun
+	Omiyage dibeli untuk rekan kerja, keluarga, dan teman, jadi hampir wajib secara sosial
+	Membeli camilan kemasan kecil, yang mudah dibagikan dan menunjukkan perhatian.
+	Survei 2025: faktor utama memilih oleh-oleh adalah awet dan mudah disimpan. Keluhan terbesar: repot membawanya dan bingung memilih antara rasa dan harga.
+	Cross Marketing 2025 · JR East Media press release 20240303 +9
+	
+
+
+
+Pertanyaan panduan
+Gunakan pertanyaan berikut untuk membantu eksplorasi:
+WHO — Siapa?
+Siapa yang mengalami masalah?
+WHAT — Apa?
+Apa masalah/kebutuhan yang mereka alami?
+WHERE — Di mana?
+Di mana masalah tersebut terjadi?
+WHEN — Kapan?
+Kapan masalah tersebut paling terasa?
+WHY — Mengapa?
+Mengapa masalah tersebut terjadi?
+HOW — Bagaimana?
+Bagaimana masyarakat saat ini mengatasinya?
+
+
+
+
+
+
+
+
+Part 3 — EMPATHY MAP
+ Empathy Map 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Berdasarkan hasil eksplorasi, buat Empathy Map berisi rangkuman untuk memahami target market.
+TARGET MARKET : Pelajar, Anak-anak, Mahasiswa, Wisatawan, Masyarakat Perkotaan 
+
+
+Apa yang Mereka Think & Feel?
+Mereka merasa cemas dan bingung memilih oleh-oleh yang terjangkau namun tetap disukai serta aman dibagikan ke semua orang.
+	Apa yang Mereka Say & Do?
+Mereka bertanya tentang kemasan satuan dan langsung membeli kotak camilan praktis di bandara atau stasiun agar mudah dibagikan.
+	Apa yang Mereka Hear?
+Mereka mendengar norma sosial dan saran dari lingkungan sekitar tentang pentingnya membawa oleh-oleh yang pantas.
+	Apa yang Mereka See?
+Mereka melihat budaya bertukar omiyage yang rapi serta deretan toko yang penuh kemasan hadiah menarik di mana-mana. 
+	
+
+
+
+PAIN — Hal yang menyulitkan mereka
+1. Bingung memilih antara rasa dan harga. 
+2. Takut hadiahnya tidak disukai penerima. 
+3. Oleh-oleh sulit dibawa. 
+4. Cepat basi atau sulit disimpan. 
+5. Tekanan sosial untuk membeli oleh-oleh dan membagi rata. 
+
+
+
+
+GAIN — Hal yang mereka inginkan
+1. Kue yang dibungkus satuan. 
+2. Kemasan yang menarik dan terlihat berkelas. 
+3. Rasa yang aman tetapi punya kekhasan. 
+4. Awet dan ringan dibawa. 
+5. Hadiah yang mewakili asal produk dan bercerita. 
+
+
+   
+2. DEFINE THE PROBLEM : 🎯 Menentukan Kebutuhan Utama
+
+
+Part 1 - Menentukan Prioritas Masalah
+Dari semua masalah yang sudah kamu eksplorasi di tahap Empathize :
+Tentukan 1 masalah yang ingin diselesaikan dengan membuat  skor untuk membantu kamu.
+1 – paling rendah      5 – paling tinggi
+No
+	Masalah
+	Banyak Dialami
+	Tingkat Kesulitan
+	Dampak
+	Potensi Solusi
+	Total
+	Sumber
+	 1
+	Harga kemasan mahal
+	4
+	3
+	3
+	3
+	13
+	https://mainichi.jp/english/articles/20241216/p2a/00m/0bu/013000c
+	 2
+	Takut hadiah tidak disukai penerima 
+	4
+	3
+	3
+	4
+	14
+	https://blog.gaijinpot.com/omiyage-how-to-fit-right-in-at-work-when-giving-japanese-style-gifts-and-souvenirs/
+	 3
+	Oleh-oleh merepotkan dibawa (besar/berat) 
+	4
+	3
+	3
+	4
+	14
+	https://core.ac.uk/download/pdf/5066164.pdf
+	 4
+	Tekanan sosial untuk membeli dan membagi oleh-oleh secara merata
+	5
+	4
+	4
+	5
+	18
+	https://voyapon.com/omiyage-japan-souvenirs/
+	5
+	Cepat basi atau sulit disimpan 
+	3
+	4
+	4
+	5
+	16
+	https://medium.com/@info-mirai/why-do-japanese-people-bring-souvenirs-to-their-coworkers-3cb825d969ec
+	
+
+🟨 Masalah yang kamu pilih adalah :
+Masalah 4
+🟨 Alasan memilih masalah tersebut:
+Alasan memilih masalah tersebut adalah karena budaya yang terdapat di negara Jepang tersebut, dimana orang-orang lokal disana terbiasa untuk membagikan sesuatu yang mereka dapat kepada keluarga, teman dan rekan secara adil dan merata. Mereka juga cenderung melihat apakah produk dapat di bagi bag, sebelum memikirkan aspek rasa, bentuk dan keunikan.
+
+
+ Part 2 - PROBLEM STATEMENT
+Dari masalah yang dipilih, buatlah problem statement dengan 3 pertanyaan pemandu :
+Who – What – What for.
+Contoh :
+Bagaimana kita dapat membantu lansia di Jepang yang ingin lebih mudah melakukan aktivitas sehari-hari secara mandiri supaya tidak membebani anggota keluarga lainnya ?
+🟩 Problem statement dari kelompok adalah :
+Bagaimana kita dapat membantu orang tua dengan anak-anak dan kalangan lain di Jepang yang perlu memberikan hadiah kepada banyak orang di lingkungan sosialnya supaya dapat membagikannya secara adil dan merata tanpa merasa canggung atau khawatir dianggap kurang perhatian?
+
+
+ 3. IDEATE :💡 Brainstorming Solusi  
+
+
+Sekarang saatnya menghasilkan sebanyak mungkin ide.
+Aturan:
+* Jangan langsung mengatakan ide teman tidak bagus.
+* Utamakan jumlah ide terlebih dahulu.
+* Ide boleh unik, sederhana, atau bahkan terlihat tidak biasa.
+* Setelah banyak ide terkumpul, baru pilih yang terbaik.
+
+
+PART 1 – Tuliskan min 3 Ide Solusi
+No.
+	Ide Solusi
+	Cara Kerja Singkat
+	1
+	Sharing Box 
+	Kotak Premium berisi (misalnya: 8,12 dan 24 bungkus) kue kering, masing-masing dibungkus satuan sehingga langsung bisa dibagi tanpa repot.
+	2
+	Snack Journey
+	Satu kemasan cemilan berisi beberapa rasa dari Indonesia. Dengan begini setiap penerima bisa mempelajari setiap asal usul dari kuliner Indonesia. 
+	3
+	A Message For You 
+	Kemasan juga diisi kartu ucapan dalam bahasa Jepang dan Indonesia dengan ruang menulis nama atau pesan. 
+	4
+	Seasonal Edition
+	Kemasan dan rasa khusus untuk momen tertentu (White Day, hadiah akhir tahun atau ketika musim sakura).
+	
+
+	
+
+	
+
+	
+
+Part 2 - MEMILIH IDE TERBAIK
+Nilai setiap ide menggunakan skala 1–5 untuk membantu kamu
+1 = sangat rendah
+5 = sangat tinggi
+No
+	Menjawab Kebutuhan
+	Inovatif
+	Realistis
+	Berdampak
+	Total
+	Ide 1
+	5
+	2
+	5
+	3
+	15
+	Ide 2
+	3
+	5
+	5
+	4
+	17
+	Ide 3
+	1
+	3
+	4
+	3
+	11
+	Ide 4
+	5
+	3
+	3
+	4
+	15
+	
+
+Part 3 -🏆 Ide yang dipilih Adalah :
+Ide 2 - Flavor Journey
+Mengapa ide ini dipilih?
+Karena ide 2 memberikan kesempatan kepada setiap pembeli untuk mengenal dan mencicipi setiap keunikan dan variasi rasa dari cemilan-cemilan yang terdapat percampuran dari negara Indonesia dengan negara Jepang. 
+
+
+Part 4 -  SOLUTION 
+Kembangkan ide yang telah dipilih.
+1. Nama Produk / Program :
+Kizuna Nusantara (Kizuna berarti ikatan atau hubungan emosional).
+2. Masalah yang Diselesaikan :
+Orang di Jepang merasa terbebani oleh kewajiban sosial untuk membeli dan membagi oleh-oleh atau hadiah ke banyak orang secara merata, sambil tetap ingin terlihat penuh perhatian. 
+3. Target Market :
+Pelajar, Mahasiswa, Pekerja Kantoran, Orang tua dengan anak-anak, Wisatawan, Pekerja Asing, Masyarakat Perkotaan
+4. Solusi yang Ditawarkan :
+Kotak kue kering Indonesia berkemasan premium. Setiap kue dibungkus satuan, satu kotak berisi beberapa rasa khas Indonesia, dan ada kartu cerita yang menjelaskan asal tiap rasa. 
+
+
+5. Bagaimana Solusi Ini Bekerja?
+Langkah 1: Pembeli memilih ukuran kotak (misalnya 8, 12, atau 24 keping) di department store, bandara, toko oleh-oleh, atau online.
+Langkah 2: Kotak dibuka, dan di dalamnya kue dibungkus satuan dengan rasa berbeda-beda.
+Langkah 3: Label di kotak menunjukkan jumlah isi dan tanggal kedaluwarsa, mengikuti kebiasaan kemasan oleh-oleh di Jepang.
+Langkah 4: Pembeli membagikan ke rekan kerja, teman, atau keluarga, dan tiap orang bisa memilih rasa favoritnya. 
+Langkah 5: Penerima membaca kartu cerita dan mengenal rasa Indonesia, sehingga hadiah terasa spesial. 
+
+
+6. Apa manfaat produk / program kamu bagi masyarakat Jepang?
+1. Mengurangi rasa canggung dan takut hadiah tidak disukai. 
+2. Memberi pilihan oleh-oleh baru yang berbeda dari kue Jepang biasa. 
+3. Lebih hemat waktu dan tenaga saat memilih serta membagikan hadiah.
+4. Mengenalkan rasa dan budaya Indonesia lewat produk yang praktis. 
+
+
+7. Apa yang membuat solusi kamu berbeda dari produk / program yang sudah ada ?
+Solusi kami berbeda dari produk/program yang sudah ada, karena kami membuka kesempatan bagi masyarakat Jepang untuk mengenal, mempelajari, dan mencicipi camilan Indonesia dengan rasa yang berbeda di setiap gigitan. Ketika produk lain hanya menawarkan rasa yang seragam tanpa cerita di baliknya, Kizuna Nusantara menghadirkan beberapa rasa khas Indonesia dalam satu kotak, lengkap dengan kartu cerita asal rasa. Kue oleh-oleh premium di Jepang, seperti Akai Bohshi, Yoku Moku, dan Shiroi Koibito, adalah merek Jepang. Kue kering Indonesia yang sudah ada di Jepang, seperti Mayora Coffee Joy (sekitar ¥125 per bungkus) dan Nastar (¥200–500), dijual sebagai camilan atau oleh-oleh murah, bukan hadiah premium. Dari pencarian kami, belum ditemukan kotak kue kering Indonesia berkemasan premium yang diposisikan sebagai oleh-oleh bernilai tinggi. Kizuna Nusantara mengisi celah itu dengan beberapa rasa khas Indonesia, dibungkus satuan, dalam kemasan siap dibagikan.
+  
+
+4. PROTOTYPE : ✏️ Wujudkan Ide Kalian
+
+
+Buat prototype sederhana dari solusi kamu untuk E-Camp 2026.
+Prototype dapat berupa:
+* Sketsa produk
+* Desain aplikasi
+* Mock-up
+* Poster layanan
+* Storyboard
+* Simulasi pelayanan
+* Kemasan
+* Website sederhana
+* Model fisik
+* Lainnya: ______________________
+
+
+Gambarkan prototype kamu di bawah ini dan Jelaskan bagian-bagian prototype tsb:
+
+
+	…
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	________________
+
+
+5. TEST - 🧪 Mendapatkan Feedback -> TIDAK DILAKUKAN HANYA UNTUK DIPELAJARI DAN DIPRAKTIKKAN SAAT E-CAMP DENGAN PITCHING DI DEPAN MENTOR !
+Presentasikan prototype kepada MENTOR.
+Mintalah mereka memberikan feedback.
+Pertanyaan yang dapat dipelajari untuk persiapan Testing / Pitching :
+1. Apakah solusi ini mudah dipahami?
+* Ya
+* Tidak
+* Sebagian
+2. Apakah solusi ini benar-benar menjawab masalah?
+* Ya
+* Tidak
+* Sebagian
+3. Bagian apa yang paling menarik?
+________________
+
+
+4. Bagian apa yang membingungkan?
+________________
+
+
+5. Apa yang perlu diperbaiki?
+________________
+
+
+6. Apakah kamu akan menggunakan solusi ini jika tersedia?
+* Ya
+* Tidak
+* Mungkin
+
+
+ IMPROVE -> SEBAGAI PANDUAN
+Gunakan feedback untuk memperbaiki solusi.
+Feedback paling penting yang kamu dapatkan:
+________________
+
+
+________________
+
+
+Perubahan yang akan kamu lakukan:
+……….
+
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+FINAL CHALLENGE 🚀 -> SEBAGAI PANDUAN
+Lengkapi DESIGN JOURNEY kamu:
+
+
+TARGET USER
+Siapa yang kamu bantu?
+…
+
+
+🔎 NEED
+Apa kebutuhan mereka?
+…
+
+
+🎯 PROBLEM
+Apa masalah utama mereka?
+…
+
+
+
+
+💡 SOLUTION
+Apa solusi kamu?
+…
+
+
+🧪 PROTOTYPE
+Bagaimana bentuk solusi kamu ?
+…
+
+
+🌟 IMPACT
+Perubahan apa yang ingin kamu ciptakan?
+…
+________________
+
+
+
+
+🎤 TUGAS PRESENTASI AKHIR -> SEBAGAI PANDUAN
+Setiap kelompok melakukan pitching 3–5 menit dengan struktur:
+1. Who?
+Siapa target pengguna?
+2. Problem
+Apa masalah/kebutuhan mereka?
+3. Insight
+Apa yang kamu temukan dari eksplorasi?
+4. Solution
+Apa solusi yang kamu tawarkan?
+5. Prototype
+Bagaimana cara kerja solusi?
+6. Impact
+Apa manfaatnya bagi masyarakat Jepang?
+7. Why Us?
+Mengapa solusi kamu layak dikembangkan?
+
+
+Kalimat penutup pitching:
+“Kami percaya bahwa solusi ini dapat membantu masyarakat Jepang __________ karena __________.”
+
+
+
+
+RUBRIK PENILAIAN  -> SEBAGAI PANDUAN
+Aspek
+	1
+	2
+	3
+	4
+	5
+	Eksplorasi
+	Data sangat minim
+	Data kurang
+	Data cukup
+	Data lengkap
+	Data sangat lengkap & relevan
+	Empathy
+	Tidak memahami user
+	Pemahaman minim
+	Cukup memahami
+	Memahami kebutuhan
+	Sangat memahami perspektif user
+	Define
+	Masalah tidak jelas
+	Kurang spesifik
+	Cukup jelas
+	Jelas & relevan
+	Sangat tajam berdasarkan insight
+	Ideate
+	Sangat sedikit ide
+	Ide terbatas
+	Cukup beragam
+	Banyak & kreatif
+	Sangat beragam & inovatif
+	Solusi
+	Tidak menjawab masalah
+	Kurang relevan
+	Cukup relevan
+	Relevan & realistis
+	Sangat relevan, inovatif & berdampak
+	Prototype
+	Tidak ada
+	Sangat sederhana
+	Cukup menggambarkan ide
+	Jelas
+	Sangat jelas & mudah dipahami
+	Testing
+	Tidak melakukan testing
+	Testing minim
+	Ada feedback
+	Feedback dimanfaatkan
+	Testing & improvement sangat baik
+	Kerja Sama
+	Tidak bekerja sama
+	Kurang
+	Cukup
+	Baik
+	Sangat baik
+	
+
+
+
+
+
+REFLEKSI INDIVIDU -> SEBAGAI PANDUAN
+Jawablah secara jujur.
+1. Hal baru apa yang saya pelajari tentang masyarakat Jepang?
+________________
+
+
+2. Apa hal paling menarik dari proses eksplorasi?
+________________
+
+
+3. Apa kesulitan terbesar kelompok saya?
+________________
+
+
+4. Apa kontribusi saya dalam kelompok?
+________________
+
+
+5. Jika memiliki waktu lebih banyak, apa yang ingin saya perbaiki?\
+________________
+________________
