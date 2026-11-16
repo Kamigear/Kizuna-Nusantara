@@ -82,6 +82,22 @@ h3 {
 
 /* ---------- bar ---------- */
 
+/* Hilangkan kotak biru saat disentuh di browser HP. */
+a,
+button,
+summary,
+[role='button'],
+[tabindex] {
+  -webkit-tap-highlight-color: transparent;
+}
+
+button,
+canvas {
+  -webkit-user-select: none;
+  user-select: none;
+  -webkit-touch-callout: none;
+}
+
 .bar {
   display: flex;
   align-items: center;
@@ -876,7 +892,8 @@ html[lang='ja'] .doc h2 {
   }
 
   .brand {
-    flex: 1 0 auto;
+    flex: 1 1 0;
+    min-width: 0;
   }
 
   .brand em {
