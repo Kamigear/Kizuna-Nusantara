@@ -1,25 +1,26 @@
 export const enUi = {
   'nav.box': 'The box',
   'nav.flavors': 'Flavors',
-  'nav.docs': 'Docs',
+  'nav.docs': 'Product info',
   'lang.aria': 'Choose language',
   'meta.index.title': 'Kizuna Nusantara: Indonesian gift cookies for Japan',
   'meta.index.desc':
-    'An Indonesian cookie box for the omiyage habit in Japan. Four flavors, wrapped one by one, ready to hand out.',
-  'meta.docs.title': 'Docs: Kizuna Nusantara',
+    'A premium Indonesian cookie box made for Japan’s omiyage tradition. Four flavors, each piece individually wrapped and ready to hand out.',
+  'meta.docs.title': 'Product info: Kizuna Nusantara',
   'meta.docs.desc':
-    'Product data for Kizuna Nusantara: name meaning, packaging, target market and buying moments.',
+    'Product info for Kizuna Nusantara: what the name means, the packaging, the target market and when people buy it.',
   'hero.title': 'A small gift, a bond that stays.',
   'hero.sub':
-    'An Indonesian cookie box for the omiyage habit in Japan. Every piece is wrapped on its own, and one box carries four flavors, so everyone gets the same share.',
+    'A premium Indonesian cookie box made for Japan’s omiyage tradition. Four flavors in one box, every piece individually wrapped, so everyone gets an equal share.',
   'hero.meta': '4 flavors · 8 / 12 / 24 pieces',
-  'hero.cta': 'See the box',
-  'stage.hint': 'Drag to rotate · scroll to zoom',
+  'hero.cta': 'What’s in the box',
+  'stage.hint': 'Drag to rotate, then scroll to zoom',
+  'stage.hint.touch': 'Swipe to rotate · pinch to zoom',
   'stage.loading': 'Loading model',
   'stage.canvas': '3D model of the Kizuna Nusantara box',
-  'stage.error': 'The 3D model failed to load. The part list below still shows what is inside the box.',
+  'stage.error': 'The 3D model couldn’t load. The parts list below still shows what’s inside the box.',
   'parts.title': 'One box, eight parts',
-  'parts.sub': 'Pull the drawer, lift the lid, hand it out. The model below is the actual packaging.',
+  'parts.sub': 'Pull the drawer, lift the lid, hand them out. The 3D model above is the actual packaging.',
   'parts.shell': 'Outer shell',
   'parts.shell.jp': '外箱',
   'parts.drawer': 'Drawer',
@@ -38,37 +39,38 @@ export const enUi = {
   'parts.snack4.jp': 'クエ・スンプロン',
   'flavors.title': 'Four flavors, one journey',
   'flavors.sub':
-    'Each piece tastes different. Picking the right one for someone shows you know what they like, and that is what makes the gift land.',
-  'flavors.flip': 'Tap a label to see its Snack Journey side.',
+    'Each piece tastes different. Picking the right one for someone shows you know what they like, and that is what makes a gift feel personal.',
+  'flavors.flip': 'Click a label to flip it to its Snack Journey side.',
+  'flavors.flip.touch': 'Tap a label to flip it to its Snack Journey side.',
   'flavors.n1': 'Nastar',
   'flavors.n1.jp': 'パイナップルタルト',
   'flavors.n1.note':
-    'Crisp and melting, buttery, with balanced sweetness: a texture that sits close to Japanese cookies, and safe to give as a gift.',
+    'Crisp, buttery and melt-in-the-mouth, with balanced sweetness. The texture is close to Japanese cookies, which makes it an easy gift.',
   'flavors.n2': 'Kue Bangkit',
   'flavors.n2.jp': 'ココナッツの口どけクッキー',
   'flavors.n2.note':
-    'Very fine, and it dissolves the moment it reaches your tongue, close to the lightness of traditional Japanese sweets.',
+    'Fine-textured and gone the moment it touches your tongue, much like the lightness of traditional Japanese sweets.',
   'flavors.n3': 'Kue Sagu Keju',
   'flavors.n3.jp': 'サゴ粉のチーズクッキー',
   'flavors.n3.note':
-    'Savory cheese with a crisp, melting bite, a flavor that sells well in modern Japanese bakeries.',
+    'Savory cheese with a crisp, melting bite: a flavor that sells well in modern Japanese bakeries.',
   'flavors.n4': 'Kue Semprong',
   'flavors.n4.jp': 'ロールウェーハス',
   'flavors.n4.note':
     'Very crisp, thin and light, close to Japanese crepe rolls and wafers.',
-  'sizes.title': 'What is inside',
+  'sizes.title': 'Three box sizes',
   'sizes.body':
-    'Available in 8, 12 and 24 pieces. Every piece is wrapped on its own, and the box label shows the contents and the expiry date, following how gift sweets are labelled in Japan.',
+    'Available in boxes of 8, 12 and 24 pieces. Every piece is individually wrapped, and the box label shows the piece count and the best-before date, as gift sweets in Japan are expected to.',
   'sizes.unit': 'pieces',
-  'docscta.title': 'Full product data',
+  'docscta.title': 'All the product details',
   'docscta.body':
     'Name meaning, packaging anatomy, target market, buying moments, and what sets us apart from Japanese gift sweets.',
-  'docscta.button': 'Open Docs',
+  'docscta.button': 'Read the product info',
   'footer.note':
-    'A product prototype for E-Camp 2026. The language is picked from where you visit from, and you can change it any time.',
-  'docs.pageTitle': 'Docs',
+    'A product prototype for E-Camp 2026. The language is set from your location; switch it any time at the top of the page.',
+  'docs.pageTitle': 'Product info',
   'docs.lead':
-    'Everything about Kizuna Nusantara used on this site, from what the name means to what is inside the box.',
+    'Everything about Kizuna Nusantara in one place, from what the name means to what’s inside the box.',
   'docs.toc': 'On this page',
 };
 
@@ -77,11 +79,11 @@ export const enDocs = [
     id: 'ringkasan',
     title: 'Summary',
     html: `
-      <p>Kizuna Nusantara is a premium Indonesian cookie box made for the omiyage habit in Japan. One box holds four Indonesian flavors, every piece is wrapped on its own, and a story card explains where each flavor comes from.</p>
+      <p>Kizuna Nusantara is a premium Indonesian cookie box made for Japan’s omiyage tradition. One box holds four Indonesian flavors, every piece is individually wrapped, and a story card explains where each flavor comes from.</p>
       <ul class="rows">
         <li><span>Form</span><span>A gift box with a drawer, a gold foil lid and a welcome panel</span></li>
-        <li><span>Contents</span><span>4 flavors, single serve sachets, 8 / 12 / 24 pieces per box</span></li>
-        <li><span>For</span><span>Souvenirs, Valentine, White Day, Ochugen, Oseibo</span></li>
+        <li><span>Contents</span><span>4 flavors, single-serve sachets, 8 / 12 / 24 pieces per box</span></li>
+        <li><span>For</span><span>Omiyage, Valentine’s Day, White Day, Ochugen, Oseibo</span></li>
       </ul>`,
   },
   {
@@ -106,8 +108,8 @@ export const enDocs = [
     html: `
       <ol>
         <li>The buyer picks a box size (8, 12 or 24 pieces) at a department store, airport, souvenir shop, or online.</li>
-        <li>The box opens and the cookies inside are wrapped one by one, each a different flavor.</li>
-        <li>The label shows the contents and the expiry date, following how gift sweets are labelled in Japan.</li>
+        <li>Inside the box, every cookie is individually wrapped, in four different flavors.</li>
+        <li>The label shows the piece count and the best-before date, as gift sweets in Japan are expected to.</li>
         <li>The buyer hands them to colleagues, friends or family, and each person picks their favorite flavor.</li>
         <li>The recipient reads the story card and meets an Indonesian flavor, so the gift carries a story.</li>
       </ol>`,
@@ -134,8 +136,8 @@ export const enDocs = [
       <ul class="rows">
         <li><span>Demographic</span><span>Students, university students, office workers, parents with children, tourists, foreign workers, city residents. Men and women.</span></li>
         <li><span>Geographic</span><span>Greater Tokyo (Tokyo, Yokohama, Chiba, Saitama), Kansai (Osaka, Kyoto, Kobe), Aichi (Nagoya), international airports, Shinkansen stations, luxury department stores.</span></li>
-        <li><span>Behavioral</span><span>Bought for Valentine, White Day, sakura season, omiyage, Ochugen and Oseibo, and okaeshi.</span></li>
-        <li><span>Psychographic</span><span>Giri minded, practical and hygienic, values quality of life, packaging enthusiast, limited edition.</span></li>
+        <li><span>Behavioral</span><span>Bought for Valentine’s Day, White Day, sakura season, omiyage, Ochugen and Oseibo, and okaeshi.</span></li>
+        <li><span>Psychographic</span><span>Giri-minded, practical and hygienic, values quality of life, packaging enthusiast, fond of limited editions.</span></li>
       </ul>`,
   },
   {
@@ -143,11 +145,11 @@ export const enDocs = [
     title: 'When it is bought',
     html: `
       <ul class="rows">
-        <li><span>Valentine</span><span>February 14. In Japan women give chocolate and sweets to friends, not only to partners.</span></li>
+        <li><span>Valentine’s Day</span><span>February 14. In Japan women give chocolate and sweets to friends, not only to partners.</span></li>
         <li><span>White Day</span><span>March 14. Men return the Valentine gift; cookies are a safe answer.</span></li>
-        <li><span>Sakura season</span><span>Late March to April, with hanami and limited edition products.</span></li>
+        <li><span>Sakura season</span><span>Late March to April, with hanami and limited-edition products.</span></li>
         <li><span>Omiyage</span><span>A souvenir after a trip, shared with friends or colleagues.</span></li>
-        <li><span>Ochugen and Oseibo</span><span>Formal mid year gifts (July to August) and year end gifts (December).</span></li>
+        <li><span>Ochugen and Oseibo</span><span>Formal midyear gifts (July to August) and year-end gifts (December).</span></li>
         <li><span>Okaeshi</span><span>A return gift, given as good manners after receiving one.</span></li>
       </ul>`,
   },
@@ -175,11 +177,11 @@ export const enDocs = [
     html: `
       <ul>
         <li>Four flavors in one box, not one uniform flavor.</li>
-        <li>Every piece is wrapped on its own, so it is ready to hand out.</li>
+        <li>Every piece is individually wrapped, so it is ready to hand out.</li>
         <li>A story card for each flavor: a gift you can talk about, not only eat.</li>
         <li>Positioned as a premium souvenir, not a cheap snack.</li>
       </ul>
-      <p>Premium Japanese gift sweets such as Akai Bohshi, Yoku Moku and Shiroi Koibito are Japanese brands. Indonesian cookies already in Japan (Mayora Coffee Joy at around ¥125 per pack, nastar at ¥200 to ¥500) are sold as cheap snacks. From our search, we have not found an Indonesian cookie box with premium packaging positioned as a high value souvenir.</p>`,
+      <p>Premium Japanese gift sweets such as Akai Bohshi, Yoku Moku and Shiroi Koibito are Japanese brands. Indonesian cookies already in Japan (Mayora Coffee Joy at around ¥125 per pack, nastar at ¥200 to ¥500) are sold as cheap snacks. From our search, we have not found an Indonesian cookie box with premium packaging positioned as a high-value souvenir.</p>`,
   },
   {
     id: 'data',

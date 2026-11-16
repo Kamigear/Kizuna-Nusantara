@@ -3,6 +3,11 @@ import { OrbitControls } from 'three/addons/controls/OrbitControls.js';
 import { GLTFLoader } from 'three/addons/loaders/GLTFLoader.js';
 import { initLang } from './i18n.js';
 
+// Layar sentuh dapat petunjuk "ketuk/cubit", bukan "klik/gulir".
+if (matchMedia('(pointer: coarse)').matches) {
+  for (const el of document.querySelectorAll('[data-i18n-touch]')) el.dataset.i18n = el.dataset.i18nTouch;
+}
+
 initLang();
 
 // Label rasa: klik untuk membalik ke sisi Snack Journey.
@@ -42,8 +47,14 @@ function startViewer(stage) {
   controls.maxPolarAngle = 2.25;
   controls.autoRotate = !reduced;
   controls.autoRotateSpeed = 0.5;
+  // Roda mouse menggulir halaman sampai model dipegang; tanpa ini halaman "macet" saat kursor lewat.
+  controls.enableZoom = false;
   controls.addEventListener('start', () => {
     controls.autoRotate = false;
+    controls.enableZoom = true;
+  });
+  canvas.addEventListener('pointerleave', (e) => {
+    if (e.pointerType === 'mouse') controls.enableZoom = false;
   });
 
   scene.add(new THREE.HemisphereLight(0x8f8471, 0x453b3a, 1.5));

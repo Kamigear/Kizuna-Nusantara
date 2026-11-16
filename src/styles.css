@@ -404,7 +404,7 @@ html[lang='ja'] .partlist em {
 
 .flavor {
   display: grid;
-  grid-template-columns: 54px 260px minmax(0, 1fr);
+  grid-template-columns: 54px 320px minmax(0, 1fr);
   gap: clamp(18px, 3vw, 40px);
   align-items: start;
   padding: 34px 0;
@@ -442,6 +442,30 @@ html[lang='ja'] .partlist em {
 
 .flip:hover {
   border-color: var(--gold-soft);
+}
+
+/* Tanda "bisa dibalik" yang terlihat tanpa hover, penting di layar sentuh. */
+.flip {
+  position: relative;
+}
+
+.flip::after {
+  content: '↻';
+  position: absolute;
+  top: 8px;
+  right: 8px;
+  z-index: 1;
+  display: grid;
+  place-items: center;
+  width: 30px;
+  height: 30px;
+  border: 1px solid var(--gold-soft);
+  border-radius: 50%;
+  background: rgba(20, 19, 26, 0.82);
+  color: var(--gold);
+  font-size: 15px;
+  line-height: 1;
+  pointer-events: none;
 }
 
 .flip__inner {
@@ -562,6 +586,10 @@ html[lang='ja'] .flavor__body h3 {
 .turnaround .cta {
   grid-column: 2;
   justify-self: start;
+}
+
+.turnaround .cta::after {
+  content: '→';
 }
 
 /* ---------- footer ---------- */
@@ -908,6 +936,21 @@ html[lang='ja'] .doc h2 {
   .facts td:nth-child(4) {
     font-size: 14px;
     margin-top: 3px;
+  }
+}
+
+/* Target sentuh minimal 44px untuk jempol. */
+@media (pointer: coarse) {
+  .nav a,
+  .docs__toc a {
+    display: inline-flex;
+    align-items: center;
+    min-height: 44px;
+  }
+
+  .lang button {
+    min-width: 44px;
+    min-height: 40px;
   }
 }
 

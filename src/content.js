@@ -4,23 +4,24 @@ export const ui = {
   id: {
     'nav.box': 'Kotak',
     'nav.flavors': 'Rasa',
-    'nav.docs': 'Docs',
+    'nav.docs': 'Info produk',
     'lang.aria': 'Pilih bahasa',
     'meta.index.title': 'Kizuna Nusantara: oleh-oleh Indonesia untuk Jepang',
     'meta.index.desc': 'Kotak kue kering Indonesia untuk budaya omiyage Jepang. Empat rasa, dikemas satuan, siap dibagikan.',
-    'meta.docs.title': 'Docs: Kizuna Nusantara',
+    'meta.docs.title': 'Info produk: Kizuna Nusantara',
     'meta.docs.desc': 'Data produk Kizuna Nusantara: arti nama, anatomi kemasan, target pasar, dan momen pembelian.',
     'hero.title': 'Hadiah kecil, ikatan yang tinggal.',
     'hero.sub':
       'Kotak kue kering premium dari Indonesia untuk budaya omiyage Jepang. Setiap keping dibungkus satuan, satu kotak berisi empat rasa, jadi semua orang dapat bagian yang sama.',
     'hero.meta': '4 rasa · isi 8 / 12 / 24 keping',
-    'hero.cta': 'Lihat kotaknya',
-    'stage.hint': 'Seret untuk memutar · gulir untuk zoom',
+    'hero.cta': 'Lihat isi kotak',
+    'stage.hint': 'Seret untuk memutar, lalu gulir untuk zoom',
+    'stage.hint.touch': 'Geser untuk memutar · cubit untuk zoom',
     'stage.canvas': 'Model 3D kotak Kizuna Nusantara',
     'stage.loading': 'Memuat model',
     'stage.error': 'Model 3D gagal dimuat. Daftar bagian di bawah tetap menjelaskan isi kotak.',
     'parts.title': 'Satu kotak, delapan bagian',
-    'parts.sub': 'Tarik laci, buka tutup, bagikan. Model di bawah adalah kemasan aslinya.',
+    'parts.sub': 'Tarik laci, buka tutup, bagikan. Model 3D di atas adalah kemasan aslinya.',
     'parts.shell': 'Cangkang luar',
     'parts.shell.jp': '外箱',
     'parts.drawer': 'Laci',
@@ -39,8 +40,9 @@ export const ui = {
     'parts.snack4.jp': 'クエ・スンプロン',
     'flavors.title': 'Empat rasa, satu perjalanan',
     'flavors.sub':
-      'Tiap keping berbeda rasa. Memilih rasa yang tepat untuk seseorang menunjukkan bahwa kamu tahu apa yang ia suka, dan itu yang membuat hadiahnya terasa.',
-    'flavors.flip': 'Ketuk labelnya untuk melihat sisi Snack Journey.',
+      'Tiap keping berbeda rasa. Memilih rasa yang tepat untuk seseorang menunjukkan bahwa kamu tahu apa yang ia suka, dan itu yang membuat hadiahnya terasa personal.',
+    'flavors.flip': 'Klik label untuk membaliknya ke sisi Snack Journey.',
+    'flavors.flip.touch': 'Ketuk label untuk membaliknya ke sisi Snack Journey.',
     'flavors.n1': 'Nastar',
     'flavors.n1.jp': 'パイナップルタルト',
     'flavors.n1.note':
@@ -48,7 +50,7 @@ export const ui = {
     'flavors.n2': 'Kue Bangkit',
     'flavors.n2.jp': 'ココナッツの口どけクッキー',
     'flavors.n2.note':
-      'Teksturnya sangat halus dan langsung lumer di mulut, mirip sensasi memakan kudapan tradisional Jepang.',
+      'Teksturnya sangat halus dan langsung lumer di mulut, mirip sensasi menyantap kudapan tradisional Jepang.',
     'flavors.n3': 'Kue Sagu Keju',
     'flavors.n3.jp': 'サゴ粉のチーズクッキー',
     'flavors.n3.note':
@@ -57,17 +59,17 @@ export const ui = {
     'flavors.n4.jp': 'ロールウェーハス',
     'flavors.n4.note':
       'Sangat renyah, tipis, dan ringan, dekat dengan krepes dan rolled wafer khas Jepang.',
-    'sizes.title': 'Isi kotak',
+    'sizes.title': 'Tiga ukuran kotak',
     'sizes.body':
       'Tersedia 8, 12, dan 24 keping. Semua dibungkus satuan, dan label kotak mencantumkan jumlah isi serta tanggal kedaluwarsa mengikuti kebiasaan kemasan oleh-oleh di Jepang.',
     'sizes.unit': 'keping',
     'docscta.title': 'Data produk lengkap',
     'docscta.body':
       'Arti nama, anatomi kemasan, target pasar, momen pembelian, dan pembeda kami dari kue oleh-oleh Jepang.',
-    'docscta.button': 'Buka Docs',
+    'docscta.button': 'Baca info produk',
     'footer.note':
-      'Prototipe produk untuk E-Camp 2026. Bahasa dipilih otomatis dari lokasi pengunjung dan bisa diganti kapan saja.',
-    'docs.pageTitle': 'Docs',
+      'Prototipe produk untuk E-Camp 2026. Bahasa dipilih otomatis dari lokasimu dan bisa diganti kapan saja di bagian atas halaman.',
+    'docs.pageTitle': 'Info produk',
     'docs.lead':
       'Semua data produk Kizuna Nusantara yang dipakai di situs ini, dari arti nama sampai isi kemasan.',
     'docs.toc': 'Isi halaman',
@@ -85,14 +87,15 @@ export const ui = {
     'hero.sub':
       'インドネシアの焼き菓子を、日本の「おみやげ」のために。ひとつずつ個包装で、4つの味の詰め合わせ。だから全員に、同じように分けられます。',
     'hero.meta': '4つの味 · 8 / 12 / 24個入り',
-    'hero.cta': '箱を見る',
-    'stage.hint': 'ドラッグで回転 · スクロールでズーム',
+    'hero.cta': '箱の中身を見る',
+    'stage.hint': 'ドラッグで回転、続けてホイールでズーム',
+    'stage.hint.touch': 'スワイプで回転 · ピンチでズーム',
     'stage.canvas': 'キズナ・ヌサンタラの箱の3Dモデル',
     'stage.loading': 'モデルを読み込み中',
     'stage.error':
       '3Dモデルを読み込めませんでした。下のパーツ一覧で構成をご確認ください。',
     'parts.title': 'ひとつの箱、8つのパーツ',
-    'parts.sub': '引き出しを開け、フタを外し、配る。下は実際のパッケージの分解図です。',
+    'parts.sub': '引き出しを開け、フタを外し、配る。上の3Dモデルは実際のパッケージです。',
     'parts.shell': '外箱',
     'parts.shell.jp': '外箱',
     'parts.drawer': '引き出し',
@@ -112,7 +115,8 @@ export const ui = {
     'flavors.title': '4つの味、ひとつの旅',
     'flavors.sub':
       'ひとつずつ違う味だから、渡す相手の好みに合わせて選べます。それが、この箱のいちばんの特徴です。',
-    'flavors.flip': 'ラベルをタップすると、スナックジャーニーの面が見られます。',
+    'flavors.flip': 'ラベルをクリックすると、スナックジャーニーの面が見られます。',
+    'flavors.flip.touch': 'ラベルをタップすると、スナックジャーニーの面が見られます。',
     'flavors.n1': 'ナスタル',
     'flavors.n1.jp': 'パイナップルタルト',
     'flavors.n1.note':
@@ -129,7 +133,7 @@ export const ui = {
     'flavors.n4.jp': 'ロールウェーハス',
     'flavors.n4.note':
       'とても軽く、薄く、香ばしい。日本のクレープロールやウェハースに近い食感です。',
-    'sizes.title': '箱の内容',
+    'sizes.title': '3つのサイズ',
     'sizes.body':
       '8個・12個・24個入りの3サイズ。すべて個包装で、箱のラベルに内容量と賞味期限を表示。日本のギフト菓子の慣習に合わせています。',
     'sizes.unit': '個入り',
@@ -138,7 +142,7 @@ export const ui = {
       '名前の由来、パッケージ構成、ターゲット、購入される場面、日本の菓子との違い。',
     'docscta.button': '資料を見る',
     'footer.note':
-      'E-Camp 2026 向けプロトタイプ。言語はアクセス元から自動で選ばれ、いつでも切り替えられます。',
+      'E-Camp 2026 向けプロトタイプ。言語はアクセス元から自動で選ばれ、ページ上部でいつでも切り替えられます。',
     'docs.pageTitle': '商品資料',
     'docs.lead':
       'このサイトで使っているキズナ・ヌサンタラの商品情報をまとめました。名前の由来から箱の中身まで。',
@@ -281,7 +285,7 @@ export const docs = {
       id: 'nama',
       title: '名前とロゴ',
       html: `
-        <p><strong>キズナ（絆）</strong>は人と人を結ぶ emotional なつながり、<strong>ヌサンタラ</strong>はインドネシアを指す言葉です。合わせると「インドネシアから届く絆」という意味になります。</p>
+        <p><strong>キズナ（絆）</strong>は人と人を結ぶ心のつながり、<strong>ヌサンタラ</strong>はインドネシアを指す言葉です。合わせると「インドネシアから届く絆」という意味になります。</p>
         <p>桜をあしらった手書き風のロゴが<em>プライマリーロゴ</em>（シグネチャーロゴ）で、フタの内側、ウェルカムパネル、包みの前面に入ります。箱の外側の金色の桜は<em>シンボルマーク</em>、その簡略版が<em>サブマーク</em>です。</p>
         <p>ロゴは日本だけを語らず、その中にインドネシアの面影を重ねています。</p>`,
     },
