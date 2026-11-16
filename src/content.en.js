@@ -9,7 +9,7 @@ export const enUi = {
   'meta.docs.title': 'Product info: Kizuna Nusantara',
   'meta.docs.desc':
     'Product info for Kizuna Nusantara: what the name means, the packaging, the target market and when people buy it.',
-  'hero.title': 'A small gift, a bond that stays.',
+  'hero.title': 'A small gift, <em>a bond that stays.</em>',
   'hero.sub':
     'A premium Indonesian cookie box made for Japan’s omiyage tradition. Four flavors in one box, every piece individually wrapped, so everyone gets an equal share.',
   'hero.meta': '4 flavors · 8 / 12 / 24 pieces',

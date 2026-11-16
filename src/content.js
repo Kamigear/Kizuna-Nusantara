@@ -10,7 +10,7 @@ export const ui = {
     'meta.index.desc': 'Kotak kue kering Indonesia untuk budaya omiyage Jepang. Empat rasa, dikemas satuan, siap dibagikan.',
     'meta.docs.title': 'Info produk: Kizuna Nusantara',
     'meta.docs.desc': 'Data produk Kizuna Nusantara: arti nama, anatomi kemasan, target pasar, dan momen pembelian.',
-    'hero.title': 'Hadiah kecil, ikatan yang tinggal.',
+    'hero.title': 'Hadiah kecil, <em>ikatan yang tinggal.</em>',
     'hero.sub':
       'Kotak kue kering premium dari Indonesia untuk budaya omiyage Jepang. Setiap keping dibungkus satuan, satu kotak berisi empat rasa, jadi semua orang dapat bagian yang sama.',
     'hero.meta': '4 rasa · isi 8 / 12 / 24 keping',
@@ -83,7 +83,7 @@ export const ui = {
     'meta.index.desc': 'インドネシアの焼き菓子を4つの味で詰め合わせたギフトボックス。すべて個包装で、配りやすい。',
     'meta.docs.title': '商品資料｜キズナ・ヌサンタラ',
     'meta.docs.desc': 'キズナ・ヌサンタラの商品情報。名前の由来、パッケージ構成、ターゲット、購入される場面。',
-    'hero.title': '小さな贈り物に、残る絆を。',
+    'hero.title': '小さな贈り物に、<em>残る絆を。</em>',
     'hero.sub':
       'インドネシアの焼き菓子を、日本の「おみやげ」のために。ひとつずつ個包装で、4つの味の詰め合わせ。だから全員に、同じように分けられます。',
     'hero.meta': '4つの味 · 8 / 12 / 24個入り',

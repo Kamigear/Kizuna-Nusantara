@@ -8,12 +8,12 @@
       name="description"
       content="Kotak kue kering Indonesia untuk budaya omiyage Jepang. Empat rasa, dikemas satuan, siap dibagikan."
     />
-    <meta name="theme-color" content="#14131a" />
+    <meta name="theme-color" content="#0e0c0a" />
     <link rel="icon" href="/img/logo.webp" />
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link
-      href="https://fonts.googleapis.com/css2?family=Bodoni+Moda:opsz,wght@6..96,400;6..96,500&family=Zen+Kaku+Gothic+New:wght@400;500;700&display=swap"
+      href="https://fonts.googleapis.com/css2?family=Bodoni+Moda:ital,opsz,wght@0,6..96,400;0,6..96,500;1,6..96,400&family=Zen+Kaku+Gothic+New:wght@400;500;700&display=swap"
       rel="stylesheet"
     />
     <link rel="stylesheet" href="/src/styles.css" />
@@ -39,9 +39,9 @@
     <main>
       <section class="hero">
         <div class="hero__copy">
-          <h1 data-i18n="hero.title"></h1>
-          <p class="lede" data-i18n="hero.sub"></p>
           <p class="meta" data-i18n="hero.meta"></p>
+          <h1 data-i18n-html="hero.title"></h1>
+          <p class="lede" data-i18n="hero.sub"></p>
           <a class="cta" href="#kotak" data-i18n="hero.cta"></a>
         </div>
 
@@ -60,7 +60,7 @@
 
       <section class="section" id="kotak">
         <div class="section__head">
-          <h2 data-i18n="parts.title"></h2>
+          <h2 data-no="01" data-i18n="parts.title"></h2>
           <p class="lede" data-i18n="parts.sub"></p>
         </div>
         <ul class="partlist">
@@ -77,7 +77,7 @@
 
       <section class="section" id="rasa">
         <div class="section__head">
-          <h2 data-i18n="flavors.title"></h2>
+          <h2 data-no="02" data-i18n="flavors.title"></h2>
           <p class="lede" data-i18n="flavors.sub"></p>
         </div>
 
@@ -164,7 +164,7 @@
 
       <section class="section sizes">
         <div class="section__head">
-          <h2 data-i18n="sizes.title"></h2>
+          <h2 data-no="03" data-i18n="sizes.title"></h2>
           <p class="lede" data-i18n="sizes.body"></p>
         </div>
         <ul class="counts">
@@ -175,7 +175,7 @@
       </section>
 
       <section class="section turnaround">
-        <h2 data-i18n="docscta.title"></h2>
+        <h2 data-no="04" data-i18n="docscta.title"></h2>
         <p data-i18n="docscta.body"></p>
         <a class="cta" href="docs.html" data-i18n="docscta.button"></a>
       </section>
