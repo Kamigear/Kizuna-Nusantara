@@ -68,7 +68,7 @@ export const ui = {
       'Arti nama, anatomi kemasan, target pasar, momen pembelian, dan pembeda kami dari kue oleh-oleh Jepang.',
     'docscta.button': 'Baca info produk',
     'footer.note':
-      'Prototipe produk untuk E-Camp 2026. Bahasa dipilih otomatis dari lokasimu dan bisa diganti kapan saja di bagian atas halaman.',
+      'Prototipe produk untuk Proyek Kewirausahaan 2026. Bahasa dipilih otomatis dari lokasimu dan bisa diganti kapan saja di bagian atas halaman.',
     'docs.pageTitle': 'Info produk',
     'docs.lead':
       'Semua data produk Kizuna Nusantara yang dipakai di situs ini, dari arti nama sampai isi kemasan.',
@@ -142,7 +142,7 @@ export const ui = {
       '名前の由来、パッケージ構成、ターゲット、購入される場面、日本の菓子との違い。',
     'docscta.button': '資料を見る',
     'footer.note':
-      'E-Camp 2026 向けプロトタイプ。言語はアクセス元から自動で選ばれ、ページ上部でいつでも切り替えられます。',
+      '起業プロジェクト 2026 向けプロトタイプ。言語はアクセス元から自動で選ばれ、ページ上部でいつでも切り替えられます。',
     'docs.pageTitle': '商品資料',
     'docs.lead':
       'このサイトで使っているキズナ・ヌサンタラの商品情報をまとめました。名前の由来から箱の中身まで。',

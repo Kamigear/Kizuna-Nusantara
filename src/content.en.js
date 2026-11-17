@@ -67,7 +67,7 @@ export const enUi = {
     'Name meaning, packaging anatomy, target market, buying moments, and what sets us apart from Japanese gift sweets.',
   'docscta.button': 'Read the product info',
   'footer.note':
-    'A product prototype for E-Camp 2026. The language is set from your location; switch it any time at the top of the page.',
+    'A product prototype for Entrepreneurship Project 2026. The language is set from your location; switch it any time at the top of the page.',
   'docs.pageTitle': 'Product info',
   'docs.lead':
     'Everything about Kizuna Nusantara in one place, from what the name means to what’s inside the box.',
